@@ -1,0 +1,56 @@
+
+h1 {
+	font-family: 'Amatic SC', cursive;
+	
+}
+.navbar a {
+    color: white;
+}
+.navbar-toggle {
+		cursor: pointer;
+
+}
+.menu{
+	flex: 1 150px;
+	min-width: 0;
+	padding: 0 0 10px 0;
+	border-radius: 25px;
+}
+
+
+.menu:nth-child(even) {
+/*
+
+	background-image: url("../img/zablack.gif"); 
+*/
+
+
+/* make black space a lot bigger than make
+	another one w white background for
+	the odd */
+
+
+}
+
+
+
+.menu:nth-child(odd) {
+/*
+
+	background-image: url("../img/zawhite.gif"); 
+}
+*/
+
+.menu H3 {
+	color: #fff;
+	padding: 0 0 0 30px;
+	background-color: rgba(0, 0, 0, 0.8);
+	border-radius: 25px 25px 0 0;
+
+}
+h1 {
+	font-family: "Amatic SC', cursive;";
+	font-size: large;
+	
+}
+
